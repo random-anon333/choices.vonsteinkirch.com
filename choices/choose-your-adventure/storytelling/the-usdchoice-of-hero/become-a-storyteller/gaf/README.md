@@ -170,7 +170,7 @@
 * Serenity
 * Catch Me If You Can
 * The Truman Show
-* The Birth of a Nation
+* Malcolm X
 * Lady Bird
 * Starship Troopers
 * I'm Still Here
