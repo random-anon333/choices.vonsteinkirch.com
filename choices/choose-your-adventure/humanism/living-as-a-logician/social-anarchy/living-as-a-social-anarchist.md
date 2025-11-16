@@ -1,0 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
+# Non-Violent Resistance
+
+<figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-19733805.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+## <mark style="color:purple;">Chaos is always better than tyranny, because at least individual freedom is preserved.</mark>
+
+> 👉🏼 [**Non Violent Resistance**](https://en.wikipedia.org/wiki/Nonviolent_resistance)**.**
+
+{% embed url="https://www.youtube.com/watch?v=NQ-K8QSStOo" %}

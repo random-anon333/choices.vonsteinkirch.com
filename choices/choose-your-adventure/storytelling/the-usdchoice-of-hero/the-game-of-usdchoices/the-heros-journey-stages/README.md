@@ -1,0 +1,6 @@
+---
+description: The 12 disquietudes a hero confronts, conveyed as goals and obstacles.
+---
+
+# 🦹🏽‍♀️ The 12 disquietudes
+
