@@ -2,16 +2,12 @@
 
 <figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-3894165.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-
-
 ## <mark style="background-color:red;">Filmmakers</mark>
-
-
 
 * Darren Aronofsky
 * David Lynch
 * Ari Aster
-* Quentin Tarantino&#x20;
+* Quentin Tarantino
 * Stanley Kubrick
 * Guy Ritchie
 * Alfred Hitchcock
@@ -36,7 +32,6 @@
 * F.W. Murnau
 * Pedro Almodovar
 * Spike Lee
-* D. W. Griffith
 * Satyajit Ray
 * Danny Boyle
 * Terrence Malick
@@ -64,8 +59,6 @@
 
 ## <mark style="background-color:green;">Writers</mark>
 
-
-
 * Isaac Asimov
 * Socrates
 * Henry Miller
@@ -85,14 +78,14 @@
 * Bram Stoker
 * William Gibson
 * Philip K. Dick
-* Friedrich Nietzsche&#x20;
+* Friedrich Nietzsche
 * Robert Greene
 * Niccolò Machiavelli
 * Jean-Paul Sartre
 * Noam Chomsky
 * Maya Angelou
 * Rene Descartes
-* Bertrand Russell&#x20;
+* Bertrand Russell
 * Arthur Schopenhauer
 * Marcus Aurelius
 * Stephen King
@@ -141,13 +134,9 @@
 * Anthony Burgess
 * JK Rowling
 
-
-
 ***
 
 ## <mark style="background-color:orange;">Musicians</mark>
-
-
 
 * [**Pink Floyd**](https://web.archive.org/web/20090621102022/http://www.last.fm/user/steinkirch)
 * Godspeed You! Black Emperor
@@ -163,13 +152,13 @@
 * The Black Keys
 * David Bowie
 * [Zhu](https://vimeo.com/285146753)
-* Queens of the Stone Age&#x20;
+* Queens of the Stone Age
 * Evanescence
 * MGMT
 * Mars Volta
 * Black Sabbath
 * Amy Winehouse
-* Rage Against the Machine&#x20;
+* Rage Against the Machine
 * Deftones
 * Radiohead
 * Lana del Rey
@@ -278,4 +267,3 @@
 * Journey
 * Lilith Max
 * Alissic
-

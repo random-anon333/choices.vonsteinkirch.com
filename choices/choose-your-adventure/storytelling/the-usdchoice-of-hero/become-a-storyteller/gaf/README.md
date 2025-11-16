@@ -2,11 +2,7 @@
 
 <figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-6558237.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
 ## <mark style="background-color:red;">On the 7th Art</mark>
-
-
 
 * Midsommar
 * Pulp Fiction
@@ -71,7 +67,7 @@
 * A Dark Song
 * Beetlejuice
 * The Castle of Otranto
-* Stand by Me&#x20;
+* Stand by Me
 * Cinema Paradiso
 * Dreams
 * The Craft
@@ -84,7 +80,7 @@
 * John Wick 1-4
 * Pan's Labyrinth
 * Land of the Dead (both)
-* The Love Witch&#x20;
+* The Love Witch
 * The Virgin Suicides
 * Blue Velvet
 * Citizen Kane
@@ -137,7 +133,7 @@
 * Alien 1
 * Se7en
 * Central do Brasil
-* The Tree of Life&#x20;
+* The Tree of Life
 * The Unbearable Lightness of Being
 * There will Be Blood
 * Todo Sobre Mi Madre
@@ -148,7 +144,7 @@
 * Downfall
 * Coraline
 * Fear and Loathing in Las Vegas
-* Star Wars (maybe up to VI)
+* Star Wars  (maybe up to VI)
 * Across the Universe
 * Jurassic Park 1
 * They Live
@@ -204,13 +200,9 @@
 * The Ministry of Ungentlemanly Warfare
 * Thunderbolts
 
-
-
 ***
 
 ## <mark style="background-color:green;">On Books</mark>
-
-
 
 * Gödel, Escher, Bach: an Eternal Golden Braid,
 * Kafka on the Shore
@@ -227,7 +219,7 @@
 * Love in the Time of Cholera
 * The Brothers Karamazov
 * One Hundred Years of Solitude
-* The Three-Body Problem&#x20;
+* The Three-Body Problem
 * Do Androids Dream of Electric Sheep?
 * Lost Paradise
 * The Hero with Thousand Faces
@@ -256,13 +248,9 @@
 * The Republic
 * The Raven
 
-
-
 ***
 
 ## <mark style="background-color:purple;">On Graphic Novels</mark>
-
-
 
 * Watchmen
 * Sandman
@@ -275,16 +263,12 @@
 * Death Note
 * The Moon and Serpent Bumper Book of Magic
 
-
-
 ***
 
 ## <mark style="background-color:blue;">On TV</mark>
 
-
-
 * Succession
-* The Twilight Zone&#x20;
+* The Twilight Zone
 * The Billion Dollar Code
 * Game of Thrones
 * Cowboy Bebop
@@ -306,7 +290,6 @@
 * Battlestar Galactica
 * The Venture Bros
 * Chernobyl
-* Serenity
 * Firefly
 * Rick and Morty S1
 * Sopranos
@@ -315,7 +298,7 @@
 * Heroes S1
 * Sense8 S1
 * The Walking Dead S1
-* What We Do in the Shadows&#x20;
+* What We Do in the Shadows
 * Sponge Bob
 * The Queen's Gambit
 * The Wire S1
@@ -325,4 +308,3 @@
 * Kaos
 * Murderbot
 * Wednesday
-

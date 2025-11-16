@@ -5,7 +5,7 @@ layout: editorial
 
 # Locus XI: Blessings
 
-<figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-15643115 (2).jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-15643115 (1).jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### <mark style="background-color:red;">The eleventh locus theme concerns networking, social justice, and community. It's known as the "locus of good spirit" and influences the player's driver to change the game on a deeper level.</mark>
 

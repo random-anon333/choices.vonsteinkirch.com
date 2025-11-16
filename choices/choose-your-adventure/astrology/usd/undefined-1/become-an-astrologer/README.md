@@ -8,25 +8,17 @@ description: >-
 
 <div data-full-width="true"><figure><img src="../../../../../../.gitbook/assets/pexels-btgl-♡-13302143.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
-
-
 ## <mark style="background-color:blue;">Recommended Software</mark>
-
-
 
 * [**AstroGold**](https://www.astrogold.io/)
 
 <figure><img src="../../../../../../.gitbook/assets/Screenshot 2025-04-09 at 12.35.58.png" alt=""><figcaption></figcaption></figure>
 
-
-
 ***
 
 ## <mark style="background-color:green;">Recommended Books</mark>
 
-
-
-* [**Ancient Astrology in Theory and Practice, by Demetra George** ](https://www.goodreads.com/book/show/40219340-ancient-astrology-in-theory-and-practice)
+* [**Ancient Astrology in Theory and Practice, by Demetra George**](https://www.goodreads.com/book/show/40219340-ancient-astrology-in-theory-and-practice)
 * [**Astrology and the Authentic Self, by Demetra George**](https://www.amazon.com/Astrology-Authentic-Self-Integrating-Traditional/dp/0892541490)
 * [**Hellenistic Astrology, by Chris Brennan**](https://www.amazon.com/Hellenistic-Astrology-Study-Fate-Fortune/dp/0998588903)
 * [**Aspects in Astrology, by Sue Tompkins**](https://www.barnesandnoble.com/w/aspects-in-astrology-sue-tompkins/1112986668?ean=9780892819652)
@@ -39,15 +31,11 @@ description: >-
 * [**Cosmos and Psyche, by Richard Tarnas**](https://www.amazon.com/Cosmos-Psyche-Intimations-World-View/dp/0452288592)
 * [**Introduction to Astrology, by Paul of Alexandria**](https://www.amazon.com/Paul-Alexandria-James-Herschel-Holden/dp/0866906339)
 
-
-
 ***
 
 ## <mark style="background-color:blue;">Articles and Essays</mark>
 
-
-
-*   [**The Theoretical Rationale Underlying the Seven Hermetic Lots, by** ](https://www.chrisbrennanastrologer.com/Brennan-Theoretical-Rationale.pdf)
+*   [**The Theoretical Rationale Underlying the Seven Hermetic Lots, by**](https://www.chrisbrennanastrologer.com/Brennan-Theoretical-Rationale.pdf)
 
     [**Chris Brennan**](https://www.chrisbrennanastrologer.com/Brennan-Theoretical-Rationale.pdf)
 * [**The Age of Aquarius, by Gayle Geffner**](https://www.ncgrla.com/articles/the-age-of-aquarius-and-pluto-by-gayle-geffner-secretary-ncgrla)
@@ -55,29 +43,25 @@ description: >-
 * [**Skyscript's Articles**](https://skyscript.co.uk/books.html#pna)
 * [**Nick Dagan Best's Articles**](https://www.nickdaganbestastrologer.com/article-archive)
 
-
-
 ***
 
-## <mark style="background-color:yellow;">🎖️ Talented Contemporary Pattern Recognizers  ️🎖️</mark>
-
-
+## <mark style="background-color:yellow;">🎖️ Talented Contemporary Pattern Recognizers ️🎖️</mark>
 
 * [**Chris Brennan**](https://www.youtube.com/@TheAstrologyPodcast)
 * [**Benebell Wen**](https://www.youtube.com/@BenebellWen)
 * [**Nick Dagan Best**](https://www.nickdaganbestastrologer.com/)
 * [**Chani**](https://www.youtube.com/watch?v=mAhECln7FG4)
 * [**Meg Moonbeam**](https://www.youtube.com/@megmoonbeam_)
-* [**Lori Lothian**](https://www.youtube.com/@LunaticAstrology)
-* [**Anastasia Astro**](https://www.youtube.com/@AnastasiaDoesAstrology)
-* [**Alexandra Blair**](https://www.youtube.com/watch?v=AvKkH-ssPt0)
-* [**Heather Ensworth**](http://youtube.com/@HeatherEnsworth)
-* [**Sarah Vrba**](https://www.youtube.com/watch?v=grJ4t9hZg7I)
+* ​[**Lori Lothian**](https://www.youtube.com/@LunaticAstrology)​
+* ​[**Anastasia Astro**](https://www.youtube.com/@AnastasiaDoesAstrology)​
+* ​[**Alexandra Blair**](https://www.youtube.com/watch?v=AvKkH-ssPt0)​
+* ​[**Heather Ensworth**](http://youtube.com/@HeatherEnsworth)​
+* ​[**Sarah Vrba**](https://www.youtube.com/watch?v=grJ4t9hZg7I)​
 * [**Beyond The Veil Tarot**](https://www.youtube.com/@BeyondTheVeilTarotAstrology)
-* [**Christopher Renstron**](https://www.youtube.com/@christopherrenstromastro)&#x20;
+* [**Christopher Renstron**](https://www.youtube.com/@christopherrenstromastro)
 * [**Maren Altman**](https://www.youtube.com/@MarenAltman)
 * [**Amelie**](https://www.youtube.com/@ameliesadvicee)
-* [**Rick Levine**](https://www.youtube.com/@RickLevine)&#x20;
+* [**Rick Levine**](https://www.youtube.com/@RickLevine)
 * [**Patrick Watson**](https://patrickwatsonastrology.com/)
 * [**Haley Comet**](https://www.youtube.com/@HaleyComet)
 * [**Camille M. Gray**](https://camillemichellegray.com/about)
@@ -96,4 +80,3 @@ description: >-
 * [**Susan Hopkinson**](https://www.youtube.com/@SusanHopkinson)
 * [**Rising Sign Astrology**](https://www.youtube.com/@RisingSignAstrology)
 * [**Betsy Gutting**](https://www.youtube.com/@BetsyGutting)
-

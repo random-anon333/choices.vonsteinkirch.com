@@ -6,20 +6,17 @@ description: This list is updated periodically.
 
 <figure><img src="../../../../../.gitbook/assets/out_there.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
-## &#x20;<mark style="background-color:$success;">Cool Resources</mark>&#x20;
-
-
+## Cool Resources
 
 * [**Bitcoin: A Peer-to-Peer Electronic Cash System**](https://bitcoin.org/bitcoin.pdf)**​**
 * **​**[**The Ethereum whitepaper**](https://ethereum.org/en/whitepaper/)
 * [**The Hacker's Manifest**](http://phrack.org/issues/7/3.html#article)
 * [**A Cypherpunk Manifest**](https://activism.net/cypherpunk/manifesto.html)
 * [**The Crypto Anarchist Manifest**](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)
-* [**The Trustless Manifest**](https://trustlessness.eth.limo/general/2025/11/11/the-trustless-manifesto.html)
+* ​[**The Trustless Manifest**](https://trustlessness.eth.limo/general/2025/11/11/the-trustless-manifesto.html)
 * [**The Electronic Frontier Foundation**](https://www.eff.org/)
 * [**The Cypherpunk Symposium**](https://github.com/cypherpunk-symposium)
+* [**The Autistic Symposium**](https://github.com/autistic-symposium/mev-toolkit)
 * [**Bitcoin Magazine**](https://www.youtube.com/@BitcoinMagazine)
 * [**Protocol Town Hall**](https://www.youtube.com/@protocoltownhall)
 * [**The Tor project**](https://www.torproject.org/)
@@ -35,22 +32,16 @@ description: This list is updated periodically.
 * [**The Algorithm Design Manual, by Steve S. Skiena**](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 * [**The Art of Computer Programming, D. Knuth**](https://www.amazon.com/Art-Computer-Programming-Fascicle-Techniques/dp/0321580508/ref=sr_1_15?qid=1705073549\&refinements=p_27%3ADonald+E.+Knuth\&s=books\&sr=1-15)
 * [**Understanding Cryptography, by Christof Paar**](https://github.com/lilith-security/COMPUTER-SCIENCE-REFS/blob/main/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf)
-* [**Gödel, Escher, Bach, by Douglas Hofstadter**](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)&#x20;
+* [**Gödel, Escher, Bach, by Douglas Hofstadter**](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
 * [**A Graduate Course in Applied Cryptography**](http://toc.cryptobook.us/)
 * [I**n the Beginning... Was the Command Line**](https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line)
 * **Flatland: A Romance of Many Dimensions**
 
-
-
 <figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-3689676.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 ***
 
-## <mark style="background-color:yellow;">**🎖️ Contemporary Cypherpunks && H4x0rs🎖️**</mark>&#x20;
-
-
+## <mark style="background-color:yellow;">**🎖️ Contemporary Cypherpunks && H4x0rs🎖️**</mark>
 
 * [**Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
 * [**Adam Back**](https://www.youtube.com/watch?v=QkSDdb7cAoM\&t=4s)
@@ -60,7 +51,7 @@ description: This list is updated periodically.
 * [**Jeff Moss**](https://en.wikipedia.org/wiki/Jeff_Moss_\(hacker\))
 * [**Tay**](https://twitter.com/tayvano_)
 * [J**ulian Assange**](https://en.wikipedia.org/wiki/Julian_Assange)
-* [**Marc Andreeseen** ](https://en.wikipedia.org/wiki/Marc_Andreessen)
+* [**Marc Andreeseen**](https://en.wikipedia.org/wiki/Marc_Andreessen)
 * [**Jame Lopp**](https://www.lopp.net/)
 * [**Michael Saylor**](https://en.wikipedia.org/wiki/Michael_J._Saylor)
 * [**Pavel Durov 🔥**](https://t.me/s/durov)
@@ -76,4 +67,3 @@ description: This list is updated periodically.
 * [**Jack Dorsey**](https://en.wikipedia.org/wiki/Jack_Dorsey)
 * [**Patrick Wardle**](https://objective-see.org/about.html)
 * [**bt3gl**](https://github.com/von-steinkirch)
-
