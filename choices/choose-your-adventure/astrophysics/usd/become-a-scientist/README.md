@@ -24,6 +24,8 @@ description: ✨ Resources for infinite wonder ✨ (This list is updated periodi
 * **Foundation, by Asimov**
 * [**Category Theory Illustrated**](https://abuseofnotation.github.io/category-theory-illustrated/)
 * [**Thinking Machine**](https://thinkingmachines.ai/)
+* **Sprawl Trilogy, by Gibson**
+* **The End of Eternity, by Asimov**
 
 
 
