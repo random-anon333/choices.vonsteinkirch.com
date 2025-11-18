@@ -22,10 +22,12 @@ layout:
 
 ### <mark style="color:purple;">When Mercury retrogrades through a particular locus of a player's</mark> [TNHC](../the-hubble-chart-thc/birth-chart/)<mark style="color:purple;">, it brings the themes of that locus into focus, calling out what needs rethinking, reevaluating, and reconsidering.</mark>
 
+{% embed url="https://www.youtube.com/watch?v=YN90s8Otlss" %}
+
 ## <mark style="color:purple;">➡️ cleaning the mind!</mark>
 
 ***
 
-## <mark style="background-color:$primary;">Examples</mark>
+## Examples
 
 {% embed url="https://www.youtube.com/watch?index=17&list=PL_euFlqwkXnYwsO3lZ2s9zGx45G5OClb_&v=_mXmW1AhfEg" %}

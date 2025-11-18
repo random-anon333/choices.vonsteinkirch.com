@@ -7,7 +7,7 @@ layout: editorial
 
 <figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-18388061.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:blue;">In the end, all you need to do to win the game is (find your way) to attain the Eightfold Path (what the</mark> [_<mark style="color:blue;">tree of life</mark>_](../../../alchemy/the-usdchoice-of-alchemy/undefined-7/by-moses-c.-1400-bce-1/) <mark style="color:blue;">really means):</mark>
+## <mark style="color:blue;">In the end, all you need to do to win the game is (find your way) to attain the Eightfold Path (what the</mark> [_<mark style="color:blue;">tree of life</mark>_](https://github.com/random-anon333/PRIVATE-games-of-choices/blob/main/choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/undefined-7/by-moses-c.-1400-bce-1) <mark style="color:blue;">really means):</mark>
 
 1. <mark style="color:blue;">**Yama**</mark>
 2. <mark style="color:purple;">**Niyama**</mark>

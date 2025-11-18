@@ -45,6 +45,7 @@
 * Eternal Sunshine of the Spotless Mind
 * The Wizard of Oz
 * The Warriors
+* Life is Beautiful
 * City of God
 * Suspiria (both)
 * The Usual Suspects
@@ -69,6 +70,7 @@
 * The Castle of Otranto
 * Stand by Me
 * Cinema Paradiso
+* Don't Look Up
 * Dreams
 * The Craft
 * Trainspotting

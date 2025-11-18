@@ -8,8 +8,6 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 
 ## <mark style="background-color:green;">Recommended Books</mark>
 
-
-
 * **Meditations, by Marcus Aurelius**
 * **Heroism, by Emerson**
 * **The Iliad and the Odyssey, by Homer**
@@ -41,13 +39,9 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 
 <figure><img src="../../../../../.gitbook/assets/pexels-btgl-♡-3689633.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ***
 
 ## <mark style="background-color:purple;">🎖️Talented Contemporary Humanists🎖️</mark>
-
-
 
 * [**Eternalised**](https://www.youtube.com/@Eternalised)
 * [**Horses**](https://www.youtube.com/@HorsesOnYT)
@@ -64,25 +58,24 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * [**Astral Scott Alexander Codex**](https://www.astralcodexten.com/)
 * [**Curtis Yarvin**](https://graymirror.substack.com/)
 * [**Theo Von**](https://www.youtube.com/@TheoVon)
+* [**Lex Fridman**](https://www.youtube.com/lexfridman)
 * [**Matthew McConaughey**](https://www.youtube.com/@MatthewMcConaughey)
 * [**Robert Greene**](https://www.youtube.com/@RobertGreeneOfficial)
+* [**Erik Torenberg**](https://www.youtube.com/@UpstreamwithErikTorenberg)
 * [**overthinker**](https://www.youtube.com/@overthinker)
 * [**Bill Maher**](https://www.youtube.com/@ClubRandomPodcast)
 * [**Ben Shapiro**](https://www.youtube.com/@BenShapiro)
 * [**David Duchovny**](https://www.youtube.com/@FailBetterwithDavidDuchovny)
 * [**David Deutsch**](https://www.youtube.com/channel/UCGQeMmshKZiA_2sjyRhSHbg)
+* [**Lawrence M. Krauss**](https://www.youtube.com/@TheOriginsPodcast/videos)
 * [**Jay Shetty**](https://www.youtube.com/@JayShettyPodcast.)
 * [**Andrew Huberman**](https://www.youtube.com/@hubermanlab)
 * [**Naval**](https://www.youtube.com/@NavalR)
 * [**Garry Tan**](https://www.youtube.com/@GarryTan)
 
-
-
 ***
 
 ## <mark style="background-color:orange;">🎖️ Talented Classical Humanists 🎖️</mark>
-
-
 
 * **Miró**
 * **Kandinsky**
@@ -104,13 +97,9 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * **Picasso**
 * **Wood**
 
-
-
 ***
 
 ## <mark style="background-color:yellow;">🎖️ Talented Digital Artists Humanists 🎖️</mark>
-
-
 
 * [**Banksy**](https://www.banksy.co.uk/)
 * [**The Dor Brothers**](https://www.youtube.com/@thedorbrothers)
@@ -123,4 +112,3 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * [**XCOPYART**](https://twitter.com/XCOPYART)
 * [**neon\_based**](https://twitter.com/neon_based)
 * [**gydravlik**](https://gydravlik.art/)
-

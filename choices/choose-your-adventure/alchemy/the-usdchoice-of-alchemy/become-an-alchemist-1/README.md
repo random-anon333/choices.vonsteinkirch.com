@@ -99,6 +99,7 @@ description: Resources to master the Alchemy craft. This list is updated periodi
 ## <mark style="background-color:blue;">🎖️ Talented Contemporary Alchemists 🎖️</mark>
 
 * [**Dr. Justin Sledge**](https://www.youtube.com/esotericachannel)
+* [**Ear to Hear**](https://www.youtube.com/@eartohear)
 * [**Jordan B Peterson**](https://www.youtube.com/@DrJordanBPetersonClips)
 * [**Irevelato**](https://www.youtube.com/@irevelato)
 * [**John Vervaeke**](https://www.youtube.com/@johnvervaeke)
