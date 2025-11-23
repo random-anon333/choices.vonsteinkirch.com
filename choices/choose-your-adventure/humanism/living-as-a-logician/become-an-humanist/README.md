@@ -8,6 +8,8 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 
 ## <mark style="background-color:green;">Recommended Books</mark>
 
+
+
 * **Meditations, by Marcus Aurelius**
 * **Heroism, by Emerson**
 * **The Iliad and the Odyssey, by Homer**
@@ -29,6 +31,7 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * **The World as Will and Representation, by Schopenhauer**
 * **Critique of Pure Reason and Critique of Practical Reason, by Kant**
 * **On the Shortness of Life, by Seneca**
+* **War and Peace**
 * [**Rules for Radicals, by Alinsky**](https://ia801202.us.archive.org/28/items/RulesForRadicals/RulesForRadicals.pdf)
 * **The Power of Now, by Tolle**
 * **Anything by Spinoza**
@@ -43,9 +46,11 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 
 ## <mark style="background-color:purple;">🎖️Talented Contemporary Humanists🎖️</mark>
 
-* [**Eternalised**](https://www.youtube.com/@Eternalised)
+
+
+* [**The Free Press**](https://www.youtube.com/@thefreepress/featured)
+* [**Closer to the Truth**](https://www.youtube.com/@CloserToTruthTV)
 * [**Horses**](https://www.youtube.com/@HorsesOnYT)
-* [**Academy of Ideas**](https://www.youtube.com/@academyofideas)
 * [**Daily Stoic**](https://www.youtube.com/@DailyStoic)
 * [**Ron Paul**](https://www.youtube.com/@RonPaulLibertyReport)
 * [**Dave Smith**](https://www.youtube.com/@PartOfTheProblem)
@@ -63,6 +68,7 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * [**Robert Greene**](https://www.youtube.com/@RobertGreeneOfficial)
 * [**Erik Torenberg**](https://www.youtube.com/@UpstreamwithErikTorenberg)
 * [**overthinker**](https://www.youtube.com/@overthinker)
+* [**Eternalised**](https://www.youtube.com/@Eternalised)
 * [**Bill Maher**](https://www.youtube.com/@ClubRandomPodcast)
 * [**Ben Shapiro**](https://www.youtube.com/@BenShapiro)
 * [**David Duchovny**](https://www.youtube.com/@FailBetterwithDavidDuchovny)
@@ -73,9 +79,13 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * [**Naval**](https://www.youtube.com/@NavalR)
 * [**Garry Tan**](https://www.youtube.com/@GarryTan)
 
+
+
 ***
 
 ## <mark style="background-color:orange;">🎖️ Talented Classical Humanists 🎖️</mark>
+
+
 
 * **Miró**
 * **Kandinsky**
@@ -101,6 +111,8 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 
 ## <mark style="background-color:yellow;">🎖️ Talented Digital Artists Humanists 🎖️</mark>
 
+
+
 * [**Banksy**](https://www.banksy.co.uk/)
 * [**The Dor Brothers**](https://www.youtube.com/@thedorbrothers)
 * [**ITS.Vermeer**](https://www.youtube.com/@ITSVermeerMusic)
@@ -111,4 +123,4 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * [**Pak**](https://twitter.com/muratpak)
 * [**XCOPYART**](https://twitter.com/XCOPYART)
 * [**neon\_based**](https://twitter.com/neon_based)
-* [**gydravlik**](https://gydravlik.art/)
+

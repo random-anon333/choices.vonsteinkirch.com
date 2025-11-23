@@ -4,6 +4,8 @@
 
 ## <mark style="background-color:red;">Filmmakers</mark>
 
+
+
 * Darren Aronofsky
 * David Lynch
 * Ari Aster
@@ -24,6 +26,7 @@
 * Robert Rodriguez
 * Hayao Miyazaki
 * Ingmar Bergman
+* Charles Stuart Kaufman
 * Sydney Lumet
 * Sergio Leone
 * Roman Polanski
@@ -59,6 +62,8 @@
 
 ## <mark style="background-color:green;">Writers</mark>
 
+
+
 * Isaac Asimov
 * Socrates
 * Henry Miller
@@ -80,7 +85,7 @@
 * Philip K. Dick
 * Friedrich Nietzsche
 * Robert Greene
-* Niccolò Machiavelli
+* [**Niccolò Machiavelli**](https://www.youtube.com/shorts/fAKyql5fWEM)
 * Jean-Paul Sartre
 * Noam Chomsky
 * Maya Angelou
@@ -137,6 +142,8 @@
 ***
 
 ## <mark style="background-color:orange;">Musicians</mark>
+
+
 
 * [**Pink Floyd**](https://web.archive.org/web/20090621102022/http://www.last.fm/user/steinkirch)
 * Godspeed You! Black Emperor

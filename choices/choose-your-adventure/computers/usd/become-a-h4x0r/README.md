@@ -8,6 +8,8 @@ description: This list is updated periodically.
 
 ## Cool Resources
 
+
+
 * [**Bitcoin: A Peer-to-Peer Electronic Cash System**](https://bitcoin.org/bitcoin.pdf)**​**
 * **​**[**The Ethereum whitepaper**](https://ethereum.org/en/whitepaper/)
 * [**The Hacker's Manifest**](http://phrack.org/issues/7/3.html#article)
@@ -43,6 +45,8 @@ description: This list is updated periodically.
 
 ## <mark style="background-color:yellow;">**🎖️ Contemporary Cypherpunks && H4x0rs🎖️**</mark>
 
+
+
 * [**Linus Torvalds**](https://www.youtube.com/watch?v=o8NPllzkFhE)
 * [**Adam Back**](https://www.youtube.com/watch?v=QkSDdb7cAoM\&t=4s)
 * [**Ross Ulbricht**](https://www.youtube.com/watch?v=8ZZGRA-8ZMU\&t=2s)
@@ -55,7 +59,9 @@ description: This list is updated periodically.
 * [**Marc Andreeseen**](https://en.wikipedia.org/wiki/Marc_Andreessen)
 * [**Jame Lopp**](https://www.lopp.net/)
 * [**Michael Saylor**](https://en.wikipedia.org/wiki/Michael_J._Saylor)
+* [**The PrimeTimeagen**](https://www.youtube.com/@ThePrimeTimeagen/videos)
 * [**Pavel Durov 🔥**](https://t.me/s/durov)
+* [**OpenAI Science**](https://www.youtube.com/watch?v=0sNOaD9xT_4)
 * [**Justin Sun**](https://en.wikipedia.org/wiki/Justin_Sun)
 * [**Dwarkesh Patel**](https://www.youtube.com/@DwarkeshPatel/)
 * [**Charles Hoskinson**](https://www.youtube.com/@charleshoskinsoncrypto)

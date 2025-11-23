@@ -7,3 +7,5 @@ description: >-
 # 🖼️ 𝙿𝚊𝚝𝚝𝚎𝚛𝚗 𝚁𝚎𝚌𝚘𝚐𝚗𝚒𝚝𝚒𝚘𝚗
 
 {% embed url="https://www.youtube.com/watch?v=jqkxghfTuU4" %}
+
+{% embed url="https://www.youtube.com/watch?v=B8vtnVWrR64" %}

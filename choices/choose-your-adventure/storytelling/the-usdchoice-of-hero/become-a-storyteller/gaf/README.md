@@ -4,6 +4,8 @@
 
 ## <mark style="background-color:red;">On the 7th Art</mark>
 
+
+
 * Midsommar
 * Pulp Fiction
 * Oppenheimer
@@ -206,6 +208,8 @@
 
 ## <mark style="background-color:green;">On Books</mark>
 
+
+
 * Gödel, Escher, Bach: an Eternal Golden Braid,
 * Kafka on the Shore
 * [The Myth of Sisyphus](https://people.brandeis.edu/~teuber/Albert_Camus_The_Myth_of_Sisyphus_Complete_Text_.pdf)
@@ -254,6 +258,8 @@
 
 ## <mark style="background-color:purple;">On Graphic Novels</mark>
 
+
+
 * Watchmen
 * Sandman
 * V for Vendetta
@@ -269,7 +275,8 @@
 
 ## <mark style="background-color:blue;">On TV</mark>
 
-* Succession
+
+
 * The Twilight Zone
 * The Billion Dollar Code
 * Game of Thrones
@@ -310,3 +317,15 @@
 * Kaos
 * Murderbot
 * Wednesday
+
+
+
+***
+
+## <mark style="background-color:blue;">Cool Lists</mark>
+
+
+
+* [**2025 Top Must Watch Zombie Movies**](https://samhain.vonsteinkirch.com/doors/11.html)
+* [**2025 Top Must Watch Vampire Movies**](https://samhain.vonsteinkirch.com/doors/5.html)
+
