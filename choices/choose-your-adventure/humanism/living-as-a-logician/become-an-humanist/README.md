@@ -76,6 +76,7 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * [**Lawrence M. Krauss**](https://www.youtube.com/@TheOriginsPodcast/videos)
 * [**Jay Shetty**](https://www.youtube.com/@JayShettyPodcast.)
 * [**Andrew Huberman**](https://www.youtube.com/@hubermanlab)
+* [**Zohran Mamdani**](https://www.youtube.com/watch?v=iQVsVNPkPmE)
 * [**Naval**](https://www.youtube.com/@NavalR)
 * [**Garry Tan**](https://www.youtube.com/@GarryTan)
 

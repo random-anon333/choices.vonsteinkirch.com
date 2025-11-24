@@ -328,4 +328,6 @@
 
 * [**2025 Top Must Watch Zombie Movies**](https://samhain.vonsteinkirch.com/doors/11.html)
 * [**2025 Top Must Watch Vampire Movies**](https://samhain.vonsteinkirch.com/doors/5.html)
+* [**Classic Movies to Watch with Our Kids**](https://gist.github.com/von-steinkirch/f45a57b69ac66076bc367b4ea005dd9c)
+* [**Classic American Movies For Thanksgiving**](https://gist.github.com/von-steinkirch/6296159fdd7afd6dcce182effb819b9f)
 
