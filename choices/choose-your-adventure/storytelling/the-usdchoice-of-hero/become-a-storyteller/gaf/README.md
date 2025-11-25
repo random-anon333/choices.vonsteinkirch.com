@@ -270,6 +270,7 @@
 * Hellblazer
 * Death Note
 * The Moon and Serpent Bumper Book of Magic
+* One Piece
 
 ***
 

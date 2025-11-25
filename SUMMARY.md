@@ -102,6 +102,7 @@
         * [💍 Soulmating](choices/choose-your-adventure/humanism/living-as-a-logician/love-1/love-2.md)
         * [🥲 Soulmating II](choices/choose-your-adventure/humanism/living-as-a-logician/love-1/love-3.md)
         * [🫀 Soulmating III](choices/choose-your-adventure/humanism/living-as-a-logician/love-1/love-3-1.md)
+        * [🌠 Soulmating IV](choices/choose-your-adventure/humanism/living-as-a-logician/love-1/love-3-2.md)
       * [🌹 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊 𝙷𝚞𝚖𝚊𝚗𝚒𝚜𝚝](choices/choose-your-adventure/humanism/living-as-a-logician/become-an-humanist/README.md)
         * [🏆 You won this adventure!](choices/choose-your-adventure/humanism/living-as-a-logician/become-an-humanist/you-won-this-adventure.md)
   * [🔭 𝙰𝚜𝚝𝚛𝚘𝚙𝚑𝚢𝚜𝚒𝚌𝚜](choices/choose-your-adventure/astrophysics/README.md)

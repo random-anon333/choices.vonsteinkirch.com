@@ -80,3 +80,4 @@ description: >-
 * [**Susan Hopkinson**](https://www.youtube.com/@SusanHopkinson)
 * [**Rising Sign Astrology**](https://www.youtube.com/@RisingSignAstrology)
 * [**Betsy Gutting**](https://www.youtube.com/@BetsyGutting)
+* [**Lawless Astro**](https://www.youtube.com/watch?v=EmcDUuazV_E)

@@ -59,6 +59,7 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * [**Megyn Kelly**](https://www.youtube.com/@MegynKelly)
 * [**Peter Thiel**](https://www.youtube.com/watch?v=918qslcfwfY)
 * [**Joe Rogan**](https://www.youtube.com/@joerogan)
+* [**Alex O'Connor**](https://www.youtube.com/watch?v=cP0S2hWaVu8)
 * [**Robin Hanson**](https://www.overcomingbias.com)
 * [**Astral Scott Alexander Codex**](https://www.astralcodexten.com/)
 * [**Curtis Yarvin**](https://graymirror.substack.com/)
