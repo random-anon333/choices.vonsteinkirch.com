@@ -8,14 +8,11 @@ description: Resources on the game via others' POV. This list is updated periodi
 
 {% embed url="https://www.youtube.com/watch?t=0s&v=ujvS2K06dg4" %}
 
-
-
 ## <mark style="background-color:purple;">THEORIES FOR REALITY (proceed at your own risk)</mark>
 
+### **Essays and POVs**
 
-
-### **Essays and POVs**&#x20;
-
+* [**The Story of Thanksgiving is a Science-Fiction Story, by Slate Star Codex**](https://slatestarcodex.com/2013/11/28/the-story-of-thanksgiving-is-a-science-fiction-story/)
 * [**The “heroic dose” of psychedelics, by Dr. Matthew Johnson**](https://www.youtube.com/watch?v=HGqFxjQI3is)
 * [**Determined: A Science of Life without Free Will, by Robert M. Sapolsky**](https://mitpressbookstore.mit.edu/book/9780525560975)
 * [**Autobiography of a Yogi**](https://www.amazon.com/Autobiography-Self-Realization-Fellowship-Paramahansa-Yogananda/dp/0876120796) **(the only book** [**Steve Jobs**](https://www.youtube.com/watch?v=UF8uR6Z6KLc) **had on his iPad)**
@@ -27,8 +24,6 @@ description: Resources on the game via others' POV. This list is updated periodi
 * [**Isaac Asimov's Guide to the Bible**](https://www.holybooks.com/wp-content/uploads/Asimovs-Guide-to-the-Bible-The-Old-and-New-Testaments.pdf) **and** [**The Last Question**](https://users.ece.cmu.edu/~gamvrosi/thelastq.html)
 * [**Memory of the Body, by Sadhguru**](https://www.youtube.com/watch?v=XQIcoQnmpko)
 * [**God at Dwarkesh Patel's Podcast**](https://www.astralcodexten.com/p/what-is-man-that-thou-art-mindful?post_id=171612547\&publication_id=89120)
-
-
 
 ### **Sacred Scripture from old magickal folks**
 
@@ -43,9 +38,5 @@ description: Resources on the game via others' POV. This list is updated periodi
 * [**The Zohar**](https://en.wikipedia.org/wiki/Zohar)
 * [**The Bible**](https://en.wikipedia.org/wiki/Bible)
 * [**Valis from Philip K Dick**](https://en.wikipedia.org/wiki/Valis_\(novel\))
-
-
-
-
 
 ## <mark style="background-color:purple;">💀💀 💀 READY TO END IT ALL? 💀 💀 💀</mark>

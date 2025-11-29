@@ -853,6 +853,7 @@
           * [Grimoires](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/manifesting/tuning/developing/README.md)
             * [The Lemegeton](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/manifesting/tuning/developing/developing/README.md)
               * [The Goetia](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/manifesting/tuning/developing/developing/developing/README.md)
+                * [The Philosophy of Demons](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/manifesting/tuning/developing/developing/developing/the-philosophy-of-demons.md)
                 * [The Lesser Key of Solomon](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/manifesting/tuning/developing/developing/developing/developing-1/README.md)
                   * [והויה ,Baal1](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/manifesting/tuning/developing/developing/developing/developing-1/developing.md)
                   * [Lucifer](choices/choose-your-adventure/alchemy/the-usdchoice-of-alchemy/manifesting/tuning/developing/developing/developing/developing-1/developing-1.md)
