@@ -48,8 +48,9 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 
 
 
+* [**Bryan Johnson (i hope you don't die...)**](https://x.com/bryan_johnson/status/1994518006421230083)
 * [**Big Think** ](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
-* [**Shaw Ryan**](https://www.youtube.com/@ShawnRyanShow)
+* [**Shawn Ryan**](https://www.youtube.com/@ShawnRyanShow)
 * [**The Free Press**](https://www.youtube.com/@thefreepress/featured)
 * [**Closer to the Truth**](https://www.youtube.com/@CloserToTruthTV)
 * [**Horses**](https://www.youtube.com/@HorsesOnYT)
