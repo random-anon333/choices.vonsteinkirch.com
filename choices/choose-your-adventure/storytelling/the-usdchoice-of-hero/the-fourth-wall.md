@@ -2,6 +2,8 @@
 
 ## _<mark style="background-color:blue;">Is she talking to me? Or am I going crazy?</mark>_
 
-
-
 {% embed url="https://www.youtube.com/watch?v=EPE9AocVTXg" %}
+
+
+
+{% embed url="https://www.youtube.com/watch?v=C1TqBmezv20" %}

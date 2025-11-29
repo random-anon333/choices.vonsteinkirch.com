@@ -75,6 +75,7 @@
           * [Human All Too Human](choices/choose-your-adventure/humanism/living-as-a-logician/undefined/nietzsche/antichrist-1.md)
           * [The Hero's final Mistake: The Serpent always gets the last word](choices/choose-your-adventure/humanism/living-as-a-logician/undefined/nietzsche/the-heros-final-mistake-the-serpent-always-gets-the-last-word.md)
         * [Beyond Nihilism](choices/choose-your-adventure/humanism/living-as-a-logician/undefined/beyond.md)
+        * [Beyond Nihilism II](choices/choose-your-adventure/humanism/living-as-a-logician/undefined/beyond-1.md)
       * [🏴‍☠️ 𝙰𝚗𝚊𝚛𝚌𝚑𝚢](choices/choose-your-adventure/humanism/living-as-a-logician/social-anarchy/README.md)
         * [Prologue](choices/choose-your-adventure/humanism/living-as-a-logician/social-anarchy/living-as-a-social-anarchist-1-1.md)
         * [Heroes](choices/choose-your-adventure/humanism/living-as-a-logician/social-anarchy/heroes/README.md)

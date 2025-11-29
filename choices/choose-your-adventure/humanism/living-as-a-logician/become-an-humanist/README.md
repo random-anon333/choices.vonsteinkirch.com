@@ -48,6 +48,8 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 
 
 
+* [**Big Think** ](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
+* [**Shaw Ryan**](https://www.youtube.com/@ShawnRyanShow)
 * [**The Free Press**](https://www.youtube.com/@thefreepress/featured)
 * [**Closer to the Truth**](https://www.youtube.com/@CloserToTruthTV)
 * [**Horses**](https://www.youtube.com/@HorsesOnYT)
@@ -108,21 +110,3 @@ description: '"I love the smell of chaos in the morning." - G✪d'
 * **Van Gogh**
 * **Picasso**
 * **Wood**
-
-***
-
-## <mark style="background-color:yellow;">🎖️ Talented Digital Artists Humanists 🎖️</mark>
-
-
-
-* [**Banksy**](https://www.banksy.co.uk/)
-* [**The Dor Brothers**](https://www.youtube.com/@thedorbrothers)
-* [**ITS.Vermeer**](https://www.youtube.com/@ITSVermeerMusic)
-* [**Jake Fried**](http://inkwood.net/)
-* [**Fewocious**](https://twitter.com/fewocious)
-* [**Artblocks**](https://twitter.com/artblocks_io)
-* [**Beeple**](https://twitter.com/beeple)
-* [**Pak**](https://twitter.com/muratpak)
-* [**XCOPYART**](https://twitter.com/XCOPYART)
-* [**neon\_based**](https://twitter.com/neon_based)
-
